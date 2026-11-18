@@ -1,26 +1,33 @@
 # Blendwit Tech
 
-**Your Tech Mate 🇳🇵** · SaaS · Custom Web & Mobile · AI/ML, built from Nepal
+**Your Tech Mate 🇳🇵** · Business software built for Nepal and South Asia
 
-Blendwit is a product-first technology group based in Kathmandu, Nepal. We build software for Nepal's small businesses and enterprises, and we help clients with AI, web and mobile development, content and marketing through Blendwit Tech.
+Blendwit Tech is a product-first software company in Kathmandu, Nepal. We build business software priced in rupees, paid with local wallets and made to fit how businesses here work. Our products share one family name, **Mero**, which means "my" in Nepali.
 
-Every product we make has one goal: replace an expensive or poorly fitting international tool with one that is priced, built and supported for Nepal.
+Every product replaces an expensive, foreign or poorly fitting tool with one that is:
 
-## Our products
+- **Priced in rupees** and paid with eSewa, Khalti, ConnectIPS or IME Pay
+- **Built for Nepal's rules**: VAT, PAN, TDS, SSF and IRD formats are part of the product
+- **In Nepali and English**, with the Bikram Sambat calendar
+- **Supported locally**, in Nepali, on Nepal time
 
-| Product | What it is |
-|---|---|
-| **[Mero CMS](https://merocms.app)** | A self-hosted content management system with a visual editor. Pay once, run it on your own server (or let us run it), and manage your website without monthly fees. Themes and plugins are available from merocms.app. |
-| **Mero Jukx** | ERP for Nepali businesses. In development. |
+## The Mero products
 
-More products are on the way.
+| Product | What it is | Status |
+|---|---|---|
+| **[Mero Jukx](https://merojukx.app)** | Nepal's business operating system: a cloud ERP with CRM, Inventory, Accounting, Khata, HR, Board, Tickets and Chat under one login | In development · closed beta |
+| **[Mero CMS](https://merocms.app)** | The website platform you own: self-hosted, one-time licence, visual editor and online store | Beta · first paying customers live |
+| **[Mero Sathi](https://merosathi.app)** | All your social media in one place: publish, calendar, insights and an AI assistant that writes in Nepali and English | Coming soon |
+
+We use what we build: [blendwit.com](https://blendwit.com) runs on Mero CMS.
 
 ## What we do for clients
 
-- **SaaS and product engineering:** from idea to a product people pay for
-- **Custom web and mobile apps:** when off-the-shelf tools don't go deep enough
-- **AI/ML:** practical AI features built into real software
-- **Tech consulting:** architecture, hosting and choosing the right tools
+- **International outsourcing:** SaaS builds, NestJS / React / Next.js development and maintenance
+- **Websites:** business, NGO and school websites and online stores on Mero CMS
+- **Tech consulting and analytics:** system design, IT audits and business dashboards
+- **Digital marketing:** social media, content, SEO and paid ads
+- **AI for business:** chatbots on your own documents, automation and AI features in existing software
 
 ## Find us
 
@@ -30,4 +37,4 @@ Want to work with us or join the team? Write to us.
 
 [LinkedIn](https://www.linkedin.com/company/blendwit) · [X](https://x.com/blendwittech) · [Facebook](https://www.facebook.com/blendwittech) · [Instagram](https://www.instagram.com/blendwittech) · [YouTube](https://www.youtube.com/@blendwit) · [TikTok](https://www.tiktok.com/@blendwittech)
 
-<sub>Blendwit International Pvt. Ltd. · Kathmandu, Nepal</sub>
+<sub>Blendwit Tech · Blendwit International Pvt. Ltd. · Kathmandu, Nepal</sub>
