@@ -22,13 +22,9 @@ More products are on the way.
 - **AI/ML:** practical AI features built into real software
 - **Tech consulting:** architecture, hosting and choosing the right tools
 
-## How we work here
-
-Our code is private. Team members work in their own forks and open pull requests into `develop`. Changes move `develop` → `test` → `beta` → `main`, and every step is checked before it goes live.
+## Find us
 
 Want to work with us or join the team? Write to us.
-
-## Find us
 
 🌐 [blendwit.com](https://blendwit.com) · 📩 [contact@blendwit.com](mailto:contact@blendwit.com)
 
