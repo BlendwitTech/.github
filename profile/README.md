@@ -15,9 +15,9 @@ Every product replaces an expensive, foreign or poorly fitting tool with one tha
 
 | Product | What it is | Status |
 |---|---|---|
-| **[Mero Jukx](https://merojukx.app)** | Nepal's business operating system: a cloud ERP with CRM, Inventory, Accounting, Khata, HR, Board, Tickets and Chat under one login | In development · closed beta |
+| **Mero Jukx** | Nepal's business operating system: a cloud ERP with CRM, Inventory, Accounting, Khata, HR, Board, Tickets and Chat under one login | In development · closed beta |
 | **[Mero CMS](https://merocms.app)** | The website platform you own: self-hosted, one-time licence, visual editor and online store | Beta · first paying customers live |
-| **[Mero Sathi](https://merosathi.app)** | All your social media in one place: publish, calendar, insights and an AI assistant that writes in Nepali and English | Coming soon |
+| **Mero Sathi** | All your social media in one place: publish, calendar, insights and an AI assistant that writes in Nepali and English | Coming soon |
 
 We use what we build: [blendwit.com](https://blendwit.com) runs on Mero CMS.
 
